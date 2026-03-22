@@ -96,6 +96,8 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bhakti--jain--ai-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhakti-jain-ai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2a48424b415e4340181a1a1c6a4d474b434604494547">[email&#160;protected]</a>)
-[![GitHub](https://img.shiel
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhakti-jain-ai"><img src="https://img.shields.io/badge/LinkedIn-bhakti--jain--ai-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhaktij2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-bhaktij2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/bhaktij2006-maker"><img src="https://img.shields.io/badge/GitHub-bhaktij2006--maker-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
