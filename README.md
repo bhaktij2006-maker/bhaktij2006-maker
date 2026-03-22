@@ -8,11 +8,11 @@
 
 ##  About Me
 
-- 🏫 Pursuing **B.Tech**
-- 🤖 Passionate about **Machine Learning, NLP & Large Language Models**
-- 🛠️ Hands-on experience in **building AI-powered apps & software development**
-- 🌱 Currently exploring **LLMs, Prompt Engineering & advanced NLP**
-- 💡 I love building AI solutions for real-world problems — Healthcare, Finance & Emotions
+   Pursuing **B.Tech**
+   Passionate about **Machine Learning, NLP & Large Language Models**
+   Hands-on experience in **building AI-powered apps & software development**
+   Currently exploring **LLMs, Prompt Engineering & advanced NLP**
+   I love building AI solutions for real-world problems — Healthcare, Finance & Emotions
 
 ---
 
@@ -68,7 +68,7 @@
 | 🏥 [Smart Med Advisor](https://github.com/bhaktij2006-maker/AI-Predicted-Medicare) | AI health companion with disease prediction, medicine info, report analysis & PDF generation | Flask, Groq, LLaMA 3.3 70B, FPDF |
 | 💰 [Personal Finance Guide](https://github.com/bhaktij2006-maker/Personal-Finance-Guide) | AI finance app with budget tracker, EMI/SIP calculator & Claude AI chatbot | FastAPI, Streamlit, Claude AI, Plotly |
 | 🧠 [SentiSense](https://github.com/bhaktij2006-maker/SentiSense) | Deep NLP dashboard — 8 emotions, sarcasm detection, aspect-based sentiment & batch analysis | Streamlit, VADER, TextBlob, NLTK, Plotly |
-| 🤖 [Web App](https://github.com/bhaktij2006-maker/ML-Web-App) | ML prediction web app with dataset processing and interactive UI | Python, Scikit-learn, Streamlit, Pandas |
+| 🤖 [Web App](https://github.com/bhaktij2006-maker/Web-App) | ML prediction web app with dataset processing and interactive UI | Python, Scikit-learn, Streamlit, Pandas |
 
 ---
 
@@ -82,6 +82,14 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=bhaktij2006-maker&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
