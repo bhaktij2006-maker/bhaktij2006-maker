@@ -1,4 +1,3 @@
-
 name: Generate Snake
 
 on:
@@ -16,7 +15,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: bhaktij2006-maker
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
