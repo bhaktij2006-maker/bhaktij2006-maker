@@ -88,9 +88,9 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
