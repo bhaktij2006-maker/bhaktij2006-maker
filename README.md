@@ -8,11 +8,11 @@
 
 ##  About Me
 
-   Pursuing **B.Tech**
-   Passionate about **Machine Learning, NLP & Large Language Models**
-   Hands-on experience in **building AI-powered apps & software development**
-   Currently exploring **LLMs, Prompt Engineering & advanced NLP**
-   I love building AI solutions for real-world problems — Healthcare, Finance & Emotions
+- 🏫 Pursuing **B.Tech**
+- 🤖 Passionate about **Machine Learning, NLP & Large Language Models**
+- 🛠️ Hands-on experience in **building AI-powered apps & software development**
+- 🌱 Currently exploring **LLMs, Prompt Engineering & advanced NLP**
+- 💡 I love building AI solutions for real-world problems — Healthcare, Finance & Emotions
 
 ---
 
@@ -89,7 +89,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -97,5 +97,5 @@
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhakti--jain--ai-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhakti-jain-ai)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhaktij2006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bhaktij2006--maker-181717?style=flat&logo=github&logoColor=white)](https://github.com/bhaktij2006-maker)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2a48424b415e4340181a1a1c6a4d474b434604494547">[email&#160;protected]</a>)
+[![GitHub](https://img.shiel
