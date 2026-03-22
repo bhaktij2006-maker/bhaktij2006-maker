@@ -89,7 +89,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/bhaktij2006-maker/bhaktij2006-maker/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -98,6 +102,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhakti-jain-ai"><img src="https://img.shields.io/badge/LinkedIn-bhakti--jain--ai-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bhaktij2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-bhaktij2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/bhaktij2006-maker"><img src="https://img.shields.io/badge/GitHub-bhaktij2006--maker-181717?style=flat&logo=github&logoColor=white" /></a>
-</p>
+  <a href="/cdn-cgi/l/email-protection#d5b7bdb4bea1bcbfe7e5e5e395b2b8b4bcb9fbb6bab8"><img src="https://img.shields.io/badge/Gmail-bhaktij2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/bhaktij2006-maker"><img src="https://img.shields.io/badge/GitHub-bhaktij2006--maker-181717?style=f
